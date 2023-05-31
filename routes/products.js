@@ -29,6 +29,4 @@ router.get('/:id', (req, res) => {
   }
 });
 
-// ... tambahkan rute lainnya untuk operasi CRUD
-
 module.exports = router;
